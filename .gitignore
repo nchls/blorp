@@ -1,0 +1,7 @@
+/tmp
+/node
+*.code-workspace
+node.tar.xz
+README
+start
+stop
